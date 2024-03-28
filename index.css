@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maX-width{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+body{
+    background-color:#f9f3e7 ;
+    overflow-x: hidden;
+}
+/* section-1 */
+.hero-section-1-main{
+    background-image:linear-gradient(#215295c9,#215295c9) ,url(./beautiful-tropical-beach-sea.jpg);
+    background-size: cover;
+    width: auto;
+    height: 50rem;
+    position: relative;
+}
+
+/* Section 2 */
+.nav-pills.nav-pills .nav-link.active{
+    background-color: #622244;
+}
+
+.section-2-hd2{
+    background-color: #622244;
+    color: black;
+}
+.section-2-hd1{
+    color:#622244;
+}
+
+.section-2-row-2c2{
+    background-color: #f9f3e7;
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin: 3rem 1rem;
+}
+.row-2-col1{
+    border: 1px solid grey;
+    background-color: #f9f3e7;
+    padding: 3rem 1rem;
+    
+
+    
+}
+.s2-boredr-st{
+    border-top-left-radius : 12px;
+    border-bottom-left-radius : 12px;
+
+}
+.s2-boredr-end{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.section-2-main{
+    background-color: white;
+    border-radius: 15px;
+    position: absolute;
+    top: 48rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90vw;
+}
+.sec2-border-top{
+    border-top-right-radius: 15px;
+}
+
+/* Section 3 */
+.section-3-main{
+    margin-top: 15rem;
+}
+.section-3-img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.s3-cards{
+    background-color: white;
+    padding: 2rem 3rem;
+    width: 28rem;
+    border-radius: 12px;
+}
+
+/* Section 4 */
+.section-4-c1{
+    background-color: white;
+    border-radius: 12px;
+}
+.s4-img-c1{
+    border-radius: 12px;
+}
+.s4-co-2-r1c1{
+    background-color: #622244;
+    border-radius: 12px;
+    width: 20rem;
+
+}
+.s4-card2{
+    background-color: white;
+    border-radius: 12px;
+    width: 20rem;
+}
+
+/* Section-5 */
+
+.section-5-main{
+    background-image: linear-gradient(90deg, #622244 40%,white);
+}
+
+.section-5-card-1{
+    background-color: white;
+    border-radius: 12px;
+    padding: 1rem 2rem;
+}
+.section-5-img{
+    object-fit: cover   ;
+}
+.section-6-cards{
+    background-color: white;
+    padding: 1rem;
+    width: 21rem;
+    border-radius: 12px;
+}
+
+
+
+/* section-7 */
+.section-7-main{
+    background-color: white;
+}
+
+.hrr{
+    border: 1px solid grey;
+}
